@@ -1,3 +1,9 @@
+#In two separate terminals, run:
+# Terminal 1
+# appium -p 4723 --base-path /wd/hub --log-level error
+
+# Terminal 2
+# appium -p 4725 --base-path /wd/hub --log-level error
 import pytest
 from appium import webdriver
 from appium.webdriver.common.appiumby import AppiumBy
