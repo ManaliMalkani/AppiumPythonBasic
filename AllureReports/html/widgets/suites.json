@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"39892b6de11175ba0fe393070a4c5df0","name":"test_PytestAllure2","statistic":{"failed":1,"broken":0,"skipped":1,"passed":2,"unknown":0,"total":4}},{"uid":"22f37156ef40a82b911c24e03f5c35ec","name":"test_PytestAllure","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}}]}
