@@ -1,0 +1,42 @@
+20/06/25 08:29:35 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+20/06/25 08:29:35 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+20/06/25 08:29:38 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+20/06/25 08:29:38 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+20/06/25 08:29:38 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+20/06/25 08:29:38 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+20/06/25 08:29:39 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+20/06/25 08:29:39 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+20/06/25 08:29:40 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+20/06/25 08:29:41 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+20/06/25 08:29:41 PM Friday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :4
+20/06/25 08:29:42 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :4
+20/06/25 08:29:42 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+20/06/25 08:29:42 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+20/06/25 08:40:09 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+20/06/25 08:40:09 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+20/06/25 08:40:11 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+20/06/25 08:40:11 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+20/06/25 08:40:12 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+20/06/25 08:40:13 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+20/06/25 08:40:13 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+20/06/25 08:40:14 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+20/06/25 08:40:14 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+20/06/25 08:40:15 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+20/06/25 08:40:15 PM Friday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :4
+20/06/25 08:40:16 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :4
+20/06/25 08:40:17 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+20/06/25 08:40:17 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+20/06/25 09:13:51 PM Friday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+20/06/25 09:13:51 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+20/06/25 09:13:53 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+20/06/25 09:13:53 PM Friday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+20/06/25 09:13:53 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+20/06/25 09:13:54 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+20/06/25 09:13:54 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+20/06/25 09:13:55 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+20/06/25 09:13:55 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+20/06/25 09:13:56 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+20/06/25 09:13:57 PM Friday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :4
+20/06/25 09:13:57 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :4
+20/06/25 09:13:58 PM Friday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+20/06/25 09:13:58 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT

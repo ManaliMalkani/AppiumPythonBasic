@@ -25,8 +25,6 @@ desired_caps['appPackage'] = 'com.code2lead.kwad'
 desired_caps['appActivity'] = 'com.code2lead.kwad.MainActivity'
 
 options = UiAutomator2Options().load_capabilities(desired_caps)
-
-options = UiAutomator2Options().load_capabilities(desired_caps)
 driver = webdriver.Remote('http://127.0.0.1:4723', options=options)
 
 ele_id = driver.find_element(AppiumBy.ID,"com.code2lead.kwad:id/EnterValue")
